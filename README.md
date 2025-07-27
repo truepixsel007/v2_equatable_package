@@ -1,0 +1,2 @@
+# v2_equatable_package
+v2_equatable_package
